@@ -3,15 +3,15 @@
 
 **Attributes**  
   - flavor (string "spicy" , "sweet" , "bland")  
-  - bottleSize (integer)oz.  
+  - bottleSize (integer)fl.oz.  
   - expireDate (datetime)  
-  - currentContents (float)oz.  
+  - currentContents (float)fl.oz.  
   - goes-withFish? (boolean)  
 
 
 **Methods**  
-  - squeeze (modifies currentContents)
-  - cut (modifies bottleSize)
-  - waterDown (modifies flavor="bland")
-  - tamper (modifies expireDate)
-  - getDrunk (modifies goes-withFish=True)
+  - squeeze (modifies currentContents)  
+  - cut (modifies bottleSize)  
+  - waterDown (modifies flavor="bland")  
+  - tamper (modifies expireDate)  
+  - getDrunk (modifies goes-withFish=True)  
