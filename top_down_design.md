@@ -1,0 +1,34 @@
+**How to become a Turing Student**  
+
+
+**1 Attend a Try-Coding Weekend**  
+  - 1.1 Check the [calendar](https://turing.io/try-coding/#upcoming-sessions) to see which event you would like to attend.  
+  - 1.2 Order your tickets.  
+    -1.2.1 You will be prompted to create an EventBrite account.  
+  - 1.3 Attend the Try-Coding Weekend and receive $500 off your tuition!  
+
+**2 Fill out your application at apply.turing.io**  
+  - 2.1 Read up on the [two different programs](https://turing.io/programs/) Turing has to offer.  
+  - 2.2 Click the Apply Now link next to your selected program.  
+    -2.2.1 You will be prompted to log in with FaceBook or GitHub.  
+    -2.2.2 If you do not yet have a GitHub account, we recommend you create one as you will be using it constantly at Turing!  
+  - 2.3 Fill out your personal information
+  - 2.4 Complete the logic quiz.  
+
+**3 Interview**  
+  - 3.1 If Turing is interested in your application you will be contacted within 7 business days to schedule your interview.  
+  - 3.2 Complete the interview process.  
+    -3.2.1 Half of the interview will consist of an additional logic quiz, similar to the first one you took online.  
+      -3.2.1.1 The interviewer may answer some questions, but the goal is to see how you work through problems.  
+    -3.2.2 The rest of the interview will assess your compatibility with Turing's culture.  
+  - 3.3 Wait to hear back, usually ~2-3 business days.  
+    -3.4 If you are accepted, proceed to **4 Tuition/ModO**  
+      -3.4.1 if FALSE, endLoop  
+
+**4 Tuition/ModO**  
+  - 4.1 Pay your initial deposit  
+  - 4.2 Set up your new MacBook  
+    -4.2.1 Follow the instructions in your email to set up the programs you will need on your computer.  
+  - 4.3 Complete Mod 0  
+    -4.3.1 Mod 0 Consists of 6 online sessions and a Capstone project.  
+    -4.3.2 Mod 0 must be completed prior to your start date.  
