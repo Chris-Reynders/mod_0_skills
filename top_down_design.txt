@@ -12,7 +12,7 @@
   - 2.2 Click the Apply Now link next to your selected program.  
     -2.2.1 You will be prompted to log in with FaceBook or GitHub.  
     -2.2.2 If you do not yet have a GitHub account, we recommend you create one as you will be using it constantly at Turing!  
-  - 2.3 Fill out your personal information
+  - 2.3 Fill out your personal information  
   - 2.4 Complete the logic quiz.  
 
 **3 Interview**  
