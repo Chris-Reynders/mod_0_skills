@@ -1,6 +1,6 @@
 **Dessert Class**
 
-  
+
 **Attribute**
 
   - cold (boolean)
@@ -12,7 +12,7 @@
 **Method**
 
   - cook (modifies cold=FALSE)
-  - whippedCream (modifies calories)
-  - noNuts (modifies nutAllergen=FALSE)
-  - fromScratch (modifies readyBy)
-  - rename (modifies menuName)
+  - addWhippedCream (modifies calories)
+  - removeNuts (modifies nutAllergen=FALSE)
+  - makeFromScratch (modifies readyBy)
+  - rename (modifies menuName)  
