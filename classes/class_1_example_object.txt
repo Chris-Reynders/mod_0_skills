@@ -1,20 +1,19 @@
-**Condiment Class**  
+**Condiment Class**
 
-  **Instance: Syrup**  
+**Instance: Syrup**
 
-Attributes  
+Attribute
 
-    - flavor: "sweet"
-    - bottleSize: 16fl.oz.  
-    - expireDate: Jan. 2008  
-    - currentContents: 12.28fl.oz.  
-    - goes-withFish?: FALSE  
+  - flavor: "sweet"
+  - bottleSize: 16
+  - expireDate: Jan. 2008
+  - currentContents: 12.28
+  - temperature: 62.8
 
-Methods  
+Method  
 
-- squeeze: currentContents - squeezeMagnitude<int 1-10> (  
-      get.userInput {"How hard do you want to squeeze, from 1-10?"})  
-- cut: bottleSize*.5 {returns str "This sticky cup can only hold 8fl.oz"}  
-- waterDown: flavorType=bland  
-- tamper: expireDate="Jan. 2088"  
-- getDrunk: goes-withFish?=TRUE  
+  - waterDown: flavor="bland"
+  - cut: bottleSize=8
+  - tamper: expireDate="Jan. 2088"
+  - pourOut: currentContents=0
+  - refrigerate: temperature=39
